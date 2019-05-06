@@ -1,0 +1,15 @@
+{
+  "name": "nautilus-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme based off Zambumon's Nautilus keycap set",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/arturoalviar/nautilus-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
