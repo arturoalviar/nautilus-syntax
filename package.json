@@ -1,7 +1,7 @@
 {
   "name": "nautilus-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark theme based off Zambumon's Nautilus keycap set",
   "keywords": [
     "syntax",
